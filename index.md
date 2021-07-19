@@ -14,7 +14,7 @@ Les théories physiques à invariance conforme peuvent être attrayantes en phys
 
 Je vais ici essayer de vous présenter en quelques mots , sans entrer dans les détails, le groupe conforme associé à la symétrie du même nom, ainsi que son algèbre de Lie. Cela permettra par la suite de vous montrer qu'il est possible de trouver une action invariante conforme d'un système dynamique décrivant deux particules en interaction. Je montrerai ainsi comment trouver une telle action, et si le temps le permet, je discuterai de l'analyse de ce système dynamique à invariance de jauge en utilisant le formalisme de Dirac que j'essaierai de vous faire découvrir si vous ne le connaissez pas encore.
 
-Par G.L.
+Par G.Lhost.
 
 - [Mécanique Diracienne](pdf-support/Mecanique_diracienne__action_inv_conforme.pdf)
 - [Systèmes Hamiltoniens sous contraintes](pdf-support/Systemes_hamiltoniens_sous_contraintes.pdf)
@@ -89,3 +89,5 @@ Par N.Kontowicz
 - [Présentation Interaction Effective Nucléon-Nucléon](pdf_support/presentation_effective_nucleon_nucleon.pdf)
 - [Rapport de stage](pdf_support/rapport_stage_effective_nucleon_nucleon.pdf)
 - [Notes de stage](pdf_support/notes_stage_effective_nucleon_nucleon.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4KazWQaaxs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
