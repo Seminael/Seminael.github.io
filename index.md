@@ -101,7 +101,8 @@ Je vais ici poursuivre la présentation que j'ai donnée il y a déjà quelq
 Je vais donc revenir à un système de deux particules interactives de type "pointlike" dont l'action est invariante sous transformation conforme et qui présente une invariance de jauge.
  Via une analyse de ce système dynamique par la méthode de classification des contraintes de Dirac, 
  je vais vous exposer comment trouver et classifier les contraintes, les implications que ces contraintes apportent mais aussi comment parvenir à calculer un générateur de symétrie de jauge, à fixer une jauge et finalement procéder à une quantification de notre système.
- Une résolution exacte de "l'équation de Schrodinger" qui en découle sera détaillée.''
+ Une résolution exacte de "l'équation de Schrodinger" qui en découle sera détaillée.'' 
+ Par G.Lhost
 
 - [Mécanique Diracienne](pdf-support/Mecanique_diracienne__action_inv_conforme.pdf)
 - [Systèmes Hamiltoniens sous contraintes](pdf-support/Systemes_hamiltoniens_sous_contraintes.pdf)
