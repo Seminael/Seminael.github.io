@@ -26,7 +26,7 @@ L'échange d'informations est omniprésent dans notre vie moderne, que ce soit p
 
 Par J.T.
 
-- [Theorie des cordes](pdf-support/Theorie_des_codes_-_1e_partie.pdf)
+- [Theorie des codes](pdf-support/Theorie_des_codes_-_1e_partie.pdf)
 - [Qui est-ce ? Version Alice et Bob](pdf-support/JeuAliceEtBob.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r2V9CxZYUHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -68,10 +68,9 @@ Nous avons donc pu illustrer la possibilité de créer des sources de neutrons �
 
 Par T. Carrière
 
-- [Accélération d'ions par laser à ultra haute intensité, application à la production de neutrons et à la nucléosynthèse](pdf_support/acceleration_ions_laser_haute_intensite.pdf)
+- [Accélération d'ions par laser à ultra haute intensité, application à la production de neutrons et à la nucléosynthèse](pdf-support/acceleration_ions_laser_haute_intensite.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6K5JqxrEseM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## L'interaction Nucléon-Nucléon
 
@@ -86,9 +85,9 @@ Après avoir renormalisé le potentiel, j'ai pu comparer des prédictions théor
 
 Par N.Kontowicz
 
-- [Présentation Interaction Effective Nucléon-Nucléon](pdf_support/presentation_effective_nucleon_nucleon.pdf)
-- [Rapport de stage](pdf_support/rapport_stage_effective_nucleon_nucleon.pdf)
-- [Notes de stage](pdf_support/notes_stage_effective_nucleon_nucleon.pdf)
+- [Présentation Interaction Effective Nucléon-Nucléon](pdf-support/presentation_effective_nucleon_nucleon.pdf)
+- [Rapport de stage](pdf-support/rapport_stage_effective_nucleon_nucleon.pdf)
+- [Notes de stage](pdf-support/notes_stage_effective_nucleon_nucleon.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4KazWQaaxs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
@@ -109,3 +108,4 @@ Je vais donc revenir à un système de deux particules interactives de type "p
 - {Article a venir]()
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAQ_7gI_Pd4?start=149" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0h3YRpv1q4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
