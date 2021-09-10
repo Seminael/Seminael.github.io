@@ -90,4 +90,22 @@ Par N.Kontowicz
 - [Rapport de stage](pdf_support/rapport_stage_effective_nucleon_nucleon.pdf)
 - [Notes de stage](pdf_support/notes_stage_effective_nucleon_nucleon.pdf)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4KazWQaaxs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4KazWQaaxs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+
+
+
+## Les theories de jauge et systeme a deux particules 
+
+''Les théories de jauge physiques à invariance conforme peuvent être attrayantes en physique, notamment en physique de la matière condensée où des symétries conformes peuvent apparaître, mais aussi en QCD, théorie quantique qui décrit l’interaction forte et donc des systèmes de quarks et gluons. 
+Je vais ici poursuivre la présentation que j'ai donnée il y a déjà quelques mois. 
+Je vais donc revenir à un système de deux particules interactives de type "pointlike" dont l'action est invariante sous transformation conforme et qui présente une invariance de jauge.
+ Via une analyse de ce système dynamique par la méthode de classification des contraintes de Dirac, 
+ je vais vous exposer comment trouver et classifier les contraintes, les implications que ces contraintes apportent mais aussi comment parvenir à calculer un générateur de symétrie de jauge, à fixer une jauge et finalement procéder à une quantification de notre système.
+ Une résolution exacte de "l'équation de Schrodinger" qui en découle sera détaillée.''
+
+- [Mécanique Diracienne](pdf-support/Mecanique_diracienne__action_inv_conforme.pdf)
+- [Systèmes Hamiltoniens sous contraintes](pdf-support/Systemes_hamiltoniens_sous_contraintes.pdf)
+- {Article a venir]()
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAQ_7gI_Pd4?start=149" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
