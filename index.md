@@ -24,7 +24,7 @@ Par G.Lhost.
 
 L'échange d'informations est omniprésent dans notre vie moderne, que ce soit pour envoyer des courriels, effectuer des transactions bancaires, ou bien recevoir des données d'une sonde spatiale à des millions de kilomètres. Dans chacune de ces situations, il est primordial de recevoir, sans aucune erreur, l'information envoyée. Malheureusement, des erreurs de transmission involontaires se produisent, et si des données "pures" sont envoyées, les erreurs commises sont généralement indétectables. Les codes détecteurs et correcteurs d'erreurs ajoutent intelligemment de la redondance pour permettre, comme leur nom l'indique, de détecter, voire de corriger ces erreurs dans la limite du possible. Ils ont également une utilité dans le stockage de données, notamment sur CD/DVD en permettant aux disques rayés de rester lisibles. Cet exposé consistera à donner les principes mathématiques de base de ces codes, et plus particulièrement ceux des codes linéaires.
 
-Par J.T.
+Par J.Vast
 
 - [Theorie des codes](pdf-support/Theorie_des_codes_-_1e_partie.pdf)
 - [Qui est-ce ? Version Alice et Bob](pdf-support/JeuAliceEtBob.pdf)
@@ -110,3 +110,17 @@ Je vais donc revenir à un système de deux particules interactives de type "p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAQ_7gI_Pd4?start=149" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0h3YRpv1q4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Systèmes chiraux actifs
+
+''La pression dans un système actif n’obéit pas à une équation d’état a priori. Nous utilisons des simulations numériques de dynamique de Langevin dans LAMMPS afin d’étudier l’existence d’une telle équation dans un système sec, chiral et actif.
+ Le système est modélisé par un ensemble 2D de croix auto-rotatives, confinées dans un polymère flexible dont la contraction fait office de barostat. On mesure la fraction surfacique occupée par les croix en fonction de la pression ainsi fixée.
+Nous utilisons d’abord des systèmes passifs pour retrouver la loi des gaz parfaits en-dessous de 15% occupés puis un modèle de disques durs entre 40% et 70% occupés. Nous étudions ensuite deux systèmes chiraux actifs.
+ Dans un système homochiral à un nombre de Péclet actif de 100, nous observons des courants sur les bords et de la cristallisation dans le bulk pour des fortes activités.
+ Cette dernière crée une isobare pour des fractions surfaciques comprises entre 60% et 75%, ce qui rappelle la coexistence liquide-vapeur du gaz de van der Waals. 
+ Le nombre de croix cristallisé est discontinu à la pression correspondante à l’isobare et la fraction surfacique de gaz est constante dans cet intervalle, ce qui signifie que les cristaux ne contribuent pas à la pression. 
+ Dans des systèmes racémiques, nous observons une séparation de phase entre les agents de chiralités opposées,
+ ce qui mène à de la cristallisation dans les domaines ainsi formés, qui ne donne pas d’isobare, ainsi que des flux de cisaillement aux frontières des domaines.''Par C.Staelen
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TrsUAyvWEeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
