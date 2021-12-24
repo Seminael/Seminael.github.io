@@ -123,4 +123,24 @@ Nous utilisons d’abord des systèmes passifs pour retrouver la loi des gaz par
  ce qui mène à de la cristallisation dans les domaines ainsi formés, qui ne donne pas d’isobare, ainsi que des flux de cisaillement aux frontières des domaines.''Par C.Staelen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TrsUAyvWEeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+## Spectroscopie et astrophysique
+
+''Les astrophysiciens étudient de nombreux spectres d’astres célestes afin d’en déduire leurs compositions et d’améliorer nos connaissances sur l’infiniment grand (Comment les éléments ont-ils été générés dans notre univers ? Quelle est la composition chimique de nos galaxies ?)  
+Mais aussi a  l’infiniment petit (validation des modèles théoriques atomiques). 
+Ici, nous étudions les spectres d’une nébuleuse planétaire très populaire car on y observe la présence de raies spectrales d’émission impliquant des états atomiques caractérisés par des valeurs élevées des nombre quantique n et l, dans des
+ions de carbone, d’azote et d’oxygène. A ces états de Rydberg, les données atomiques sont actuellement encore mal connues.
+On utilisera des modèles théoriques pour prédire les valeurs énergétiques des niveaux correspondants et on en déduira les longueurs d’onde.'' Par E.Fouarge. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VPHkm5PsU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## P-adic number and physics
+
+''Nous sommes habitués à penser aux nombres réels ou même imaginaires, quand on pense à la physique, mais la réalité est que toutes les observations sont des nombres rationnels. 
+Nous utilisons la complétion réelle pour profiter des propriétés algébriques de ce corps. Pourtant, ceci peut ne pas  être la meilleure option. 
+À des distances proches de la longueur de Planck, la structure de l'espace temps est possiblement discret, considérer des distances ultramétriques peut donner une meilleure description de la physique. 
+L'année 1987, Igor. I. Volovich propose le principe d'invariance suivant : les lois de la physique doivent être invariantes sous changement de corps de nombres. C'est à partir de ce point que commence à se développer la physique p-adique.
+Pendant ce séminaire, nous présenterons les nombres p-adiques comme la complétion des rationnels et nous parlerons de ses possibles applications.'' Par A.Blanco.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrQN-gq8DOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
