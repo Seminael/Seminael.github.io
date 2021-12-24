@@ -138,7 +138,7 @@ On utilisera des modèles théoriques pour prédire les valeurs énergétiques d
 
 ''Nous sommes habitués à penser aux nombres réels ou même imaginaires, quand on pense à la physique, mais la réalité est que toutes les observations sont des nombres rationnels. 
 Nous utilisons la complétion réelle pour profiter des propriétés algébriques de ce corps. Pourtant, ceci peut ne pas  être la meilleure option. 
-À des distances proches de la longueur de Planck, la structure de est possiblement non continu, considérer des distances ultramétriques peut donner une meilleure description de la physique. 
+À des distances proches de longueur de Planck, l'espace-temps n'est pas continu, considérer des distances ultramétriques peut donner une meilleure description de la physique. 
 L'année 1987, Igor. I. Volovich propose le principe d'invariance suivant : les lois de la physique doivent être invariantes sous changement de corps de nombres. C'est à partir de ce point que commence à se développer la physique p-adique.
 Pendant ce séminaire, nous présenterons les nombres p-adiques comme la complétion des rationnels et nous parlerons de ses possibles applications.'' Par A.Blanco.
 
